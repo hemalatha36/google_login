@@ -11,3 +11,4 @@ Basic knowledge of Kotlin and Android development.
 Android Studio installed with a new Jetpack Compose project set up.
 Firebase project configured with Google sign-in enabled.
 
+Additional Resources: https://medium.com/@hemalathassrinivas/google-login-authentication-with-firebase-using-jetpack-compose-2aa55b502693
